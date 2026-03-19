@@ -16,10 +16,6 @@ highlighter: rouge
 permalink: /blog/:title/
 future: true
 
-# Plugins
-plugins:
-  - jekyll-seo-tag
-
 # Defaults
 defaults:
   - scope:
@@ -27,9 +23,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
-# Collections
-collections_dir: .
 
 # Exclude
 exclude:
