@@ -1,1 +1,38 @@
-theme: jekyll-theme-midnight
+title: Carles Arnal
+description: Principal Software Engineer — Distributed Systems, Schema Governance, ML Pipelines
+url: "https://carlesarnal.github.io"
+baseurl: ""
+
+# Author
+author:
+  name: Carles Arnal
+  company: IBM
+  location: Barcelona
+  github: carlesarnal
+
+# Build
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title/
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Collections
+collections_dir: .
+
+# Exclude
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
