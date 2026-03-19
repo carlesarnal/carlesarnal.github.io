@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Real-Time vs. Batch ML Inference: Engineering Tradeoffs You Won't Find in Tutorials"
-date: 2026-03-19
+date: 2025-03-19
 description: "The inference spectrum isn't binary. Micro-batch, dual-model architectures, PySpark UDF tracing challenges, and what changes at 100x scale — lessons from building a real-time classification pipeline."
 tags: [ML Inference, Spark, Kafka, Distributed Systems, Observability]
 ---
