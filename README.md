@@ -2,7 +2,7 @@
 
 Personal website and technical blog for [Carles Arnal](https://github.com/carlesarnal).
 
-Built with Jekyll and hosted on GitHub Pages.
+Built with Jekyll and hosted on GitHub Pages at [carlesarnal.github.io](https://carlesarnal.github.io).
 
 ## Content
 
