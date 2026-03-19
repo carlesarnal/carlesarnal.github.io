@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Deep Dives
+permalink: /blog/
 ---
 
 <div class="hero">
