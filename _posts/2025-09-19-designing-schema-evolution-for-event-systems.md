@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Designing Schema Evolution for Event-Driven Systems"
-date: 2025-03-17
+date: 2025-09-19
 description: "Schema evolution is the hardest coordination problem in event-driven architectures. Compatibility modes, common mistakes, and real-world patterns from building a Kafka-based ML pipeline with Apicurio Registry."
 tags: [Schema Evolution, Kafka, Apicurio, Event-Driven Architecture]
 ---

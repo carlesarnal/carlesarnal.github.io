@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Schema References Break in Avro (And How to Design Around It)"
-date: 2025-03-15
+date: 2025-03-19
 description: "Avro schema references promise reusable types across schemas. In practice, they break in subtle ways — circular dependencies, version pinning drift, namespace collisions. Here's what I learned contributing to Apicurio Registry."
 tags: [Avro, Schema Registry, Apicurio, Distributed Systems]
 ---
