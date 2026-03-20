@@ -79,7 +79,7 @@ title: Home
     </div>
   </div>
   <div class="card">
-    <h3><a href="https://github.com/carlesarnal/apicurio-registry-support-chat">apicurio-registry-support-chat</a></h3>
+    <h3><a href="https://github.com/Apicurio/apicurio-registry/tree/main/support-chat">apicurio-registry/support-chat</a></h3>
     <p>RAG-powered support chatbot for Apicurio Registry using LangChain4j, Ollama, and prompt templates stored as versioned registry artifacts.</p>
     <div class="card-tags">
       <span class="tag">RAG</span>

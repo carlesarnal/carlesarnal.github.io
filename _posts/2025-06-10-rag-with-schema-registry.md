@@ -8,7 +8,7 @@ tags: [RAG, LangChain4j, Ollama, Apicurio, LLM]
 
 Prompt templates are code. They have versions, they break when changed, they need rollback capability, and different versions produce different outputs. Yet most teams store them as hardcoded strings or, at best, in a config file. Schema registries already solve versioning, governance, and compatibility for schemas — why not extend the pattern to prompts?
 
-This article is based on [apicurio-registry-support-chat](https://github.com/carlesarnal/apicurio-registry-support-chat), a RAG-powered chatbot I built that uses Apicurio Registry as its prompt management backend.
+This article is based on [support-chat](https://github.com/Apicurio/apicurio-registry/tree/main/support-chat), a RAG-powered chatbot I built as part of Apicurio Registry that uses the registry itself as its prompt management backend.
 
 > Full article with examples: [distributed-deep-dives/rag-with-schema-registry](https://github.com/carlesarnal/distributed-deep-dives/tree/main/rag-with-schema-registry)
 
